@@ -1,23 +1,24 @@
 import streamlit as st
-
-print("Last three games : 3 "
-      " Goals : 8")
-
-print("Last three games : 3 "
-      " Goals : 8")
-
-if st.button("Click"):
-    st.write("Clicked")
+import pandas as pd
 
 st.title("BMI Calculator")
 st.markdown("This app calculates The Body Mass Index")
-weight = st.number_input("Enter Your weight in KGs", step=0.1)
-height = st.number_input("Enter your height (in cm)", step=0.1)
+weight = st.slider("Enter Your weight in KGs", 20, 140, 45)
+height = st.slider("Enter your height (in cm)", 100, 250, 175)
 
 if st.button("Calculate BMI"):
-    if height > 0:
-        height_m = height / 100  # convert height to meters
-        bmi = weight / (height_m ** 2)
-        st.write(f"Your BMI is {bmi:.2f}")
+    height_m = height / 100  # convert height to meters
+    bmi = weight / (height_m**2)
+
+    st.write("-" * 100)
+    if bmi <= 18.5:
+        st.write("You are Underweight")
+    elif bmi >= 18.5 and bmi <= 24.9:
+        st.write("You are Normal weight")
+    elif bmi >= 25 and bmi <= 29.9:
+        st.write("You are Overweight")
+    elif bmi > 30:
+        st.write("You are Obese")
     else:
-        st.write("Please enter a valid height.")
+        st.write("Something went wrong")
+    st.write(f"Your BMI is {bmi:.2f}")
