@@ -1,8 +1,4 @@
-from text import madlib
-
-
 def main():
-
     print("Hello from madlibs!")
     adj = input("Adjective : ")
     verb = input("Verb : ")
@@ -14,7 +10,7 @@ def main():
     language = input("Your lanuage :")
     emotion = input("Emotion: ")
 
-    texts = f"One day, in the {city}, a {adj} crowd gathered to watch the biggest {sports} match of the year.\
+    madlib = f"One day, in the {city}, a {adj} crowd gathered to watch the biggest {sports} match of the year.\
             The stadium was buzzing with excitement as fans {verb} in anticipation. As the game began,\
             the players showed their skills, making the audience {verb1} in awe.\
             The match was between {team}, known for their incredible gameplay. \
