@@ -30,3 +30,24 @@ To run any of these projects:
 ```bash
 git clone https://github.com/HarrisMuhammad/python_projects.git
 cd python_projects
+```
+
+2. Navigate to the project folder you're interested in:
+```bash
+cd rock-paper-scissors
+```
+
+3. Run the script:
+```bash
+python main.py
+```
+
+📬 Contact
+
+Feel free to reach out if you're interested in collaborating, or if you're a recruiter looking for an entry-level Python developer:
+
+    📧 haris928762@gmail.com
+
+    🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-haris-216536249/)
+
+    💼 https://github.com/HarissMuhammad
