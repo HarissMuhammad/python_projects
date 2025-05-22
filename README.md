@@ -10,7 +10,7 @@ This repository serves as a portfolio of beginner-friendly projects, each design
 
 | Project | Description |
 |---------|-------------|
-| [BMI Calculator](./bmi-calculator) | Calculates Body Mass Index (BMI) based on user input for weight and height. |
+| [BMI Calculator](./my-projects/bmi-calculator) | Calculates Body Mass Index (BMI) based on user input for weight and height. |
 | [Countdown Timer](./countdown-timer) | A simple countdown timer that takes input in seconds and counts down to zero. |
 | [Guessing Number Game (User)](./guessing-number-game-user) | The user tries to guess a randomly generated number by the computer. |
 | [Guessing Number Game (Computer)](./guessing-number-game-computer) | The computer attempts to guess a number the user is thinking of using binary search logic. |
