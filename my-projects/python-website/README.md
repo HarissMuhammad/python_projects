@@ -38,6 +38,15 @@ uv add streamlit pandas
 ```bash
 uv run streamlit run main.py
 ```
+### 🖼️ Example Features
+
+    📂 Upload CSV file
+
+    👀 Preview and summary of dataset
+
+    🎯 Filter by column and value
+
+    📈 Plot interactive line chart from selected X and Y columns
 
 ###🧠 Technologies Used
 
