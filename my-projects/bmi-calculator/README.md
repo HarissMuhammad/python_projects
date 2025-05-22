@@ -12,8 +12,13 @@ An interactive web app built with [Streamlit](https://streamlit.io) to calculate
 ---
 
 ## 🚀 How to Run the App
+### 📥 1. Clone the Repository
 
-### 📦 Step 1: Install Streamlit
+```bash
+git clone https://github.com/HarissMuhammad/python_projects.git
+cd python_projects/bmi-calculator
+```
+### 📦 Step 2: Install Streamlit
 
 If you haven't installed Streamlit yet:
 
