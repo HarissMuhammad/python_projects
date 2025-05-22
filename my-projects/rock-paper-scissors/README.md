@@ -43,6 +43,7 @@ Choose:
     Game continues until you type yes to exit
 
 ### 💡 Example Output
+```scss
   Hello from rock-paper-scissors!
   
   Choose (1) for Rock-(2) for Paper-(3) for Scissors
@@ -55,7 +56,7 @@ Choose:
   You Won!
   Exit(yes/no)
   > yes
-
+```
 ### 🧠 Technologies Used
 
     Python 3
