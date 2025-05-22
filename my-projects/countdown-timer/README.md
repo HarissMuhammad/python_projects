@@ -37,9 +37,3 @@ main.py
 
 ## 🧠 Technologies Used
 Python 3
-
-## Project Structure
-
-countdown-timer/
-├── countdown_timer.py  # Main countdown script
-└── README.md           # Project documentation
