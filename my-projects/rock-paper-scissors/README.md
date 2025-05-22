@@ -34,18 +34,12 @@ python main.py
 ```
 ### 🎮 Gameplay
 
-    Choose:
-
+Choose:
         1 for Rock
-
         2 for Paper
-
         3 for Scissors
-
     The computer randomly selects one as well
-
     Results are displayed: You win, Tie, or You lose
-
     Game continues until you type yes to exit
 
 ### 💡 Example Output
