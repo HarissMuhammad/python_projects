@@ -11,14 +11,14 @@ This repository serves as a portfolio of beginner-friendly projects, each design
 | Project | Description |
 |---------|-------------|
 | [BMI Calculator](./my-projects/bmi-calculator) | Calculates Body Mass Index (BMI) based on user input for weight and height. |
-| [Countdown Timer](./countdown-timer) | A simple countdown timer that takes input in seconds and counts down to zero. |
-| [Guessing Number Game (User)](./guessing-number-game-user) | The user tries to guess a randomly generated number by the computer. |
-| [Guessing Number Game (Computer)](./guessing-number-game-computer) | The computer attempts to guess a number the user is thinking of using binary search logic. |
-| [Hangman](./hangman) | A basic implementation of the classic word-guessing game. |
-| [Mad Libs Generator](./madlibs) | A fun word game where the user provides random words to fill in a story. |
-| [Password Generator](./password-generator) | Generates strong and customizable passwords with various character sets. |
-| [Python Website](./python-website) | A simple web-based project built using Flask (or other frameworks, if used). |
-| [Rock-Paper-Scissors](./rock-paper-scissors) | A text-based version of the classic game against the computer. |
+| [Countdown Timer](./my-projects/countdown-timer) | A simple countdown timer that takes input in seconds and counts down to zero. |
+| [Guessing Number Game (User)](./my-projects/guessing-number-game-user) | The user tries to guess a randomly generated number by the computer. |
+| [Guessing Number Game (Computer)](./my-projects/guessing-number-game-computer) | The computer attempts to guess a number the user is thinking of using binary search logic. |
+| [Hangman](./my-projects/hangman) | A basic implementation of the classic word-guessing game. |
+| [Mad Libs Generator](./my-projects/madlibs) | A fun word game where the user provides random words to fill in a story. |
+| [Password Generator](./my-projects/password-generator) | Generates strong and customizable passwords with various character sets. |
+| [Python Website](./my-projects/python-website) | A simple web-based project built using Flask (or other frameworks, if used). |
+| [Rock-Paper-Scissors](./my-projects/rock-paper-scissors) | A text-based version of the classic game against the computer. |
 
 ---
 
