@@ -2,8 +2,8 @@
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HarissMuhammad/python_projects?style=social)
-![GitHub forks](https://img.shields.io/github/forks/HarissMuhammad/python-mini-projects?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/HarissMuhammad/python-mini-projects)
+![GitHub forks](https://img.shields.io/github/forks/HarissMuhammad/python_projects?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/HarissMuhammad/python_projects)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
