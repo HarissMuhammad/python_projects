@@ -35,20 +35,14 @@ python main.py
 
 ### 🔁 Game Flow
 
-    The program picks a random number between 1 and 100.
-
+The program picks a random number between 1 and 100.
     You try to guess the number.
-
     You'll get feedback:
-
         “Too high” or “Too low” for distant guesses.
-
         “Close but still high/low” for near misses.
-
         “You Guessed it!” when correct.
 
 ### 🧠 Technologies Used
 
-    Python 3
-
-    Built-in libraries: random, time
+Python 3
+Built-in libraries: random, time
